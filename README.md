@@ -3,7 +3,6 @@
 
 🎓 Student at Korea Polytechnic of Seoul Gangseo Campus(Year 2)  
 💻 Studying **Java** and **Spring Boot**  and  **SQL** and **Python**
-🏆 Participated in KPAAS Competition 
 
 ## 🛠️ Tech Stack
 
