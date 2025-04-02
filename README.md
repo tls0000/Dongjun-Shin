@@ -14,4 +14,7 @@
 - **Databases**: MySQL, NoSQL, MariaDB, MongoDB
 - **Other**: Git, GitHub, IntelliJ IDEA
 
-- 
+## 🏅 GitHub Stats
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&count_private=true)](https://github.com/tls0000)
+
